@@ -1,7 +1,6 @@
-Nmae:Kulakrni
+Name:KULAKARNI GANESH Company:CODETECH IT SOLUTIONS ID:CT08DS9551 Domain:Frontend Web Development Duration:october to November 2024
 
-
-
+![Screenshot (190)](https://github.com/user-attachments/assets/7f6b5c42-c8d0-427b-b98b-35d7913f8f77)
 
 Project Overview: 
 
